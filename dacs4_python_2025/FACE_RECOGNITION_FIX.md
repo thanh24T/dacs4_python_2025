@@ -34,6 +34,7 @@ Code cũ không check `is_new_user` → Không biết khi nào hiện registrati
 
 ---
 
+
 ## ✅ GIẢI PHÁP
 
 ### **Kiến Trúc Mới: Tách Rõ Trách Nhiệm**
