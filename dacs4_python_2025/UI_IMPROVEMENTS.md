@@ -80,6 +80,7 @@ console.log('currentUser:', currentUser);
 
 ## 📝 FILES CHANGED
 
+
 ### **Frontend:**
 - ✅ `frontend/src/App.tsx`
   - Removed `showSidebar` state
