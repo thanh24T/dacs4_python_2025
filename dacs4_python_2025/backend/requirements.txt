@@ -1,0 +1,41 @@
+# Core
+websockets
+numpy
+colorama
+python-dotenv
+
+# Audio
+pyaudio
+
+# VAD (Voice Activity Detection)
+torch
+torchaudio
+
+# RAG System
+sentence-transformers
+chromadb
+
+# Groq API
+groq
+
+# Together AI
+together
+
+# Hugging Face - Load model local
+huggingface_hub
+transformers
+accelerate
+sentencepiece
+protobuf
+
+# OpenAI (for Ollama compatibility in llm.py)
+openai
+
+# ElevenLabs TTS
+elevenlabs
+
+# Deepgram STT (for server.py)
+deepgram-sdk
+
+# MySQL Database
+mysql-connector-python
